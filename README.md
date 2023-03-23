@@ -8,7 +8,7 @@
 ## Hello World! 👋
 ### Glad to see you here! 🤩 &nbsp; 
 
->I am Computer Science Engineering graduate🎓 currently working in a MNC Tata Consultancy Services looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies 👨🏻‍💻. I'm currently into Web Development 🕸️ and working on my Data Structures and Algorithms 🤓. Although A computer science engineer working with Devlopment tools and looking forward to Share and Gain knowledgeable stuff☘️.
+>I am Computer Science Studend looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
 
 ### Talking about Personal Stuffs:
 
@@ -18,7 +18,7 @@
 
 - 🧩 Interested In : Technology, Music, Anime
 
--💡 Equipments : Sarcasm, Knowledge, Java, React, WebDev
+- 💡 Equipments : Sarcasm, Knowledge, Java, React, WebDev
 
 - 📝 [Resume](https://drive.google.com/file/d/1-fbZbUjYcwA1Ho6CH1d408ECBsTfOINx/view?usp=sharing)
 
