@@ -37,6 +37,6 @@
 <a href="https://github.com/giovannimazza">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovannimazza&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannimazza&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-  <img height="180em" src="github-readme-streak-stats.herokuapp.svg"/></a>
+  
 </p>
 
