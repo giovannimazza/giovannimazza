@@ -5,14 +5,15 @@
 [<img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/nogiiiiiii) 
 ![counter](https://komarev.com/ghpvc/?username=giovannimazza&style=flat-square)
 
-## Hello World! 👋
-### Glad to see you here! 🤩 &nbsp; 
+## System.out.println("Hello World!") 
 
 >I am Computer Science Studend looking for opportunities and collabaration in projects related to data science and deep learning. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️.
 
 ### Talking about Personal Stuffs:
 
 - 👨🎓 Experience Level : 1+ years
+
+-  :watch: Currently Learning : Angular - TypeScript
 
 - 💻 I’m Currently Watching : Hunter x Hunter 🚀
 
