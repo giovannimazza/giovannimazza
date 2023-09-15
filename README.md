@@ -1,5 +1,3 @@
-![banner](https://media.licdn.com/dms/image/D4D16AQHI-_3NeLnocw/profile-displaybackgroundimage-shrink_350_1400/0/1673356830859?e=1684972800&v=beta&t=W1KyAI4vPSeRHjkdZN5P4rd1WU63bx3vMT8-oY5L2cQ)
-
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/giovanbattistamazza/) 
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/giovanni_.mazza/) 
 [<img src = "https://img.shields.io/badge/telegram-%233498DB.svg?&style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/nogiiiiiii) 
@@ -32,7 +30,7 @@
 
 
 ### ⚙️ &nbsp;GitHub Analytics
-
+![giovannimazza's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 <p align="center">
 <a href="https://github.com/giovannimazza">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovannimazza&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
