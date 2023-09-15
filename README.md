@@ -31,10 +31,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<a href="https://github.com/giovannimazza/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=giovannimazza" />
+<p>
+<a href="https://github.com/giovannimazza">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovannimazza&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannimazza&layout=compact&exclude_lang=java+r&theme=vue-dark" />
 </a>
-<a href="https://github.com/giovannimazza/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=giovannimazza&layout=compact&langs_count=8&card_width=320" />
-</a>
+</p>
 
