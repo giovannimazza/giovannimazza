@@ -33,8 +33,7 @@
 
 <p align="center">
 <a href="https://github.com/giovannimazza">
-  ![giovannimazza's GitHub stats](https://github-readme-stats.vercel.app/api?username=giovannimazza&show_icons=true&theme=transparent&include_all_commits=true)
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giovannimazza&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovannimazza&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giovannimazza&layout=compact&exclude_lang=java+r&theme=vue-dark" />
   
 </p>
