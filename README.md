@@ -11,9 +11,9 @@
 
 - 👨🎓 Experience Level : 1+ years
 
--  :watch: Currently Learning : Angular - TypeScript
+-  :watch: Currently Learning : Camel
 
-- 💻 I’m Currently Watching : Hunter x Hunter 🚀
+- 💻 I’m Currently Watching : My Hero Academia 🚀
 
 - 🧩 Interested In : Technology, Music, Anime
 
