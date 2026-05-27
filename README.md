@@ -9,11 +9,9 @@
 
 ### Talking about Personal Stuffs:
 
-- 👨🎓 Experience Level : 1+ years
+- 👨🎓 Experience Level : 3+ years
 
--  :watch: Currently Learning : Camel
-
-- 💻 I’m Currently Watching : My Hero Academia 🚀
+- 💻 I’m Currently RE:Watching : Re:Zero 🚀
 
 - 🧩 Interested In : Technology, Music, Anime
 
