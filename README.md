@@ -5,8 +5,6 @@
 
 ## System.out.println("Hello World!") 
 
-### Talking about Personal Stuffs:
-
 - 👨🎓 Experience Level : 3+ years
 
 - 💻 I’m Currently RE:Watching : Re:Zero 🚀
